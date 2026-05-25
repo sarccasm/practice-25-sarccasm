@@ -41,3 +41,28 @@ Paste your code-solution within `LinqTasks` file in the appropriate methods.
 ### Task 10: Concatenating two lists
 `ConcatenateLists()` Concatenate two lists of integers.
 
+---
+
+## Test Results
+
+```
+NUnit Adapter 4.4.0.0: Test execution started
+Running all tests in LinqTestProject.dll
+
+  Passed TestGetEvenNumbers
+  Passed TestGetSum
+  Passed TestGetLongStrings
+  Passed TestFindPersonByName
+  Passed TestSortDescending
+  Passed TestGroupByAge
+  Passed TestAnyNumberGreaterThanTen
+  Passed TestSelectNames
+  Passed TestAllPositive
+  Passed TestConcatenateLists
+
+Test Run Successful.
+Total tests: 10
+     Passed: 10
+ Total time: 1.4537 Seconds
+```
+
